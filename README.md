@@ -428,7 +428,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Next, determine who the stakeholder listens to (Advisors)
 - Then, identify the project objectives (stakeholders care about & how they prioritize them)
 - Categorize each Stakeholder by (Influence & Interest) in the project
-- Finally, DOCUMENT the stakhollder's contributions to the project (expectations) & who to turn to for things you need
+- Finally, DOCUMENT the stakeholder's contributions to the project (expectations) & who to turn to for things you need
 ```
 
 ## 2.4 Identify Project Goals
@@ -461,6 +461,72 @@ The project will take advantage of funding available for productive and technolo
 
 
 ## 2.5 Define Project Objectives
+
+```
+1. Overall 
+- After defining project GOALS, can start by identifying more DETAILED objectives
+- Help the (Project scope, approach choose, success critieria need to meet)
+
+2. Business Objectives
+- Support your organization's goals
+- Example: Increase market share to 25% / Provide word class health care.
+
+3. Financial Objectives
+- All about money
+- Example: Increase revenue by 15% / cut costs by 10%
+
+4. Quality Objectives
+- Specify How good reslts needs to be
+- Example: Decrease staph infections by 80% / Decrease readmittance by 75%
+
+5. Technical Objectives
+- Technical specification for equipments
+- Example: Introduce mobile equipment for hospital, ambulance, & remote emergency site.
+
+6. Performance
+- Example: Finish project before grant expires. (by specific date)
+```
+
+
+
+### 2.5.1 Project Objectives Documenting Best Practices
+
+```
+Use 'SMART' criteria (Clear Objectives)
+
+1. S pecific Objectives
+- Inform what needs to be achieved
+- Well defined, clear, and unambiguous
+- Example: Increase revenue by 15%
+
+2. M easurable Objectives
+- Show how much has been achieved
+- Is it easy to achieved
+- With specific criteria that measure your progress toward the accomplishment of the goal
+- Example: The hospital can measure the decrease in readmittance / revenue increase.
+- With Qualitative measures, you might use survey responses, such as (minimum patient satistfaction rating of 4.5 starts)
+
+3. A chievable Objectives
+- Tell what ca be done with resources available
+- Attainable and not impossible to achieve
+- Challenging objectives : can motivate people / might give up if think its impossible
+
+4. R ealistic Objetives 
+- Within reach, realistic, and relevant to your life purpose
+
+5. T ime-related Objetives
+- Identify when objectives need to be achieved
+- Be sure to set a clear target date
+- With a clearly defined timeline, including a starting date and a target date. The purpose is to create urgency.
+- Eample: The government grants might be used by December 31st, 2020.
+
+* Finally Project GOAL & OBJECTIVES are identified
+- work with apprpirate stakeholders
+- to perform a benefit analysis
+- Why? Validate the project aligns with (organization's mission & strategy) & delivers expected value to the business
+```
+
+
 
 
 

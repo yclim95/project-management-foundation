@@ -30,7 +30,7 @@
   * [2.3.1 Analyze Stakeholders (Steps)](#231-analyze-stakeholders-steps)
   * [2.4 Identify Project Goals](#24-identify-project-goals)
     + [2.4.1 Identify Project Goals (Step)](#241-identify-project-goals-step)
-    * [2.5 Define Project Objectives](#25-define-project-objectives)
+  * [2.5 Define Project Objectives](#25-define-project-objectives)
   * [3. Develop a Project Plan](#3-develop-a-project-plan)
   * [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
   * [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)

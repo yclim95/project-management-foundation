@@ -2,7 +2,40 @@
 
 ## TABLE OF CONTENTs
 
-[toc]
+- [Project Management](#project-management)
+  * [TABLE OF CONTENTs](#table-of-contents)
+  * [Deliver Successful Project](#deliver-successful-project)
+  * [What you should Know?](#what-you-should-know-)
+  * [1. Get to Know Project Management](#1-get-to-know-project-management)
+    + [1.1 What is a project?](#11-what-is-a-project-)
+    + [1.2 What is project management?](#12-what-is-project-management-)
+    + [1.3 What it takes to be a project manager?](#13-what-it-takes-to-be-a-project-manager-)
+    + [1.4 Project Management Life Cycle](#14-project-management-life-cycle)
+    + [1.5 Traditional vs. Agile Project Management](#15-traditional-vs-agile-project-management)
+      - [1.5.1 Agile Project Management](#151-agile-project-management)
+    + [1.6 How organization structure affects project](#16-how-organization-structure-affects-project)
+    + [1.7 Organization Culture](#17-organization-culture)
+      - [1.7.1 How organization culture affects project](#171-how-organization-culture-affects-project)
+      - [1.7.2 Navigating Culture](#172-navigating-culture)
+    + [1.8 Project Management Software](#18-project-management-software)
+  * [2. First Thing First](#2-first-thing-first)
+  * [2.1 Initiate a Project](#21-initiate-a-project)
+  * [2.2 Identify Project Stakeholders](#22-identify-project-stakeholders)
+  * [2.2.1 Project Customer](#221-project-customer)
+  * [2.2.2 Project Sponsor](#222-project-sponsor)
+  * [2.2.3 Project Functional / Line Manager](#223-project-functional---line-manager)
+  * [2.2.4 Project Team memeber](#224-project-team-memeber)
+  * [2.2.4 Project Team memeber](#224-project-team-memeber-1)
+  * [2.3 Analyze Stakeholders](#23-analyze-stakeholders)
+  * [2.3.1 Analyze Stakeholders (Steps)](#231-analyze-stakeholders--steps-)
+  * [2.4 Analyze Stakeholders](#24-analyze-stakeholders)
+  * [3. Develop a Project Plan](#3-develop-a-project-plan)
+  * [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
+  * [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
+  * [6. While you Run the Project](#6-while-you-run-the-project)
+  * [7. Work with Teams](#7-work-with-teams)
+  * [8. Monitor & Control Progres & Performance](#8-monitor---control-progres---performance)
+  * [9. Close a Project](#9-close-a-project)
 
 
 

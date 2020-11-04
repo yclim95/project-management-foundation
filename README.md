@@ -28,7 +28,9 @@
   * [2.2.4 Project Team memeber](#224-project-team-memeber-1)
   * [2.3 Analyze Stakeholders](#23-analyze-stakeholders)
   * [2.3.1 Analyze Stakeholders (Steps)](#231-analyze-stakeholders-steps)
-  * [2.4 Analyze Stakeholders](#24-analyze-stakeholders)
+  * [2.4 Identify Project Goals](#24-identify-project-goals)
+    + [2.4.1 Identify Project Goals (Step)](#241-identify-project-goals-step)
+    * [2.5 Define Project Objectives](#25-define-project-objectives)
   * [3. Develop a Project Plan](#3-develop-a-project-plan)
   * [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
   * [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
@@ -429,10 +431,38 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Finally, DOCUMENT the stakhollder's contributions to the project (expectations) & who to turn to for things you need
 ```
 
-## 2.4 Analyze Stakeholders
+## 2.4 Identify Project Goals
+```
+1. Identify what the customer really wants
+2. Goals:
+- Defines the end result (Project delivery)
+- To solves the problem
+- Takes advantage of opportunity
+- Drives everything that happens in the project, to ensure you got it right
 ```
 
+### 2.4.1 Identify Project Goals (Step)
+
 ```
+1. Problem Statement
+- Clearly defines the PROBLEM / OPPORTUNITY
+- Its great if can FIT IN 1 SENTENCE 
+- EX question: Why do we need a new sechduling system?
+- EX answer: hospital resources seem to be either jammed up or sitting idle.
+- Ex answer (reason to answer): Procedures require specific equipment & staff
+- Ex (Problem statement):
+Hospital resources aren't being utilized efficiently, because scheduling doesn't ensure that the neccessary equipment, staff, and facilities are available.
+Funding is avaible to address scheduling issues.
+- Ex (Project Goals)
+The project will deliver scheduling improvements so hospital resources can be scheduled efficiently. 
+The project will take advantage of funding available for productive and technology enhancements.
+```
+
+
+
+## 2.5 Define Project Objectives
+
+
 
 ## 3. Develop a Project Plan
 

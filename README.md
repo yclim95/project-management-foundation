@@ -6,19 +6,19 @@
   * [TABLE OF CONTENTs](#table-of-contents)
   * [Deliver Successful Project](#deliver-successful-project)
   * [What you should Know?](#what-you-should-know)
-  * [1. Get to Know Project Management](#1-get-to-know-project-management)
-    + [1.1 What is a project?](#11-what-is-a-project)
-    + [1.2 What is project management?](#12-what-is-project-management)
-    + [1.3 What it takes to be a project manager?](#13-what-it-takes-to-be-a-project-manager)
-    + [1.4 Project Management Life Cycle](#14-project-management-life-cycle)
-    + [1.5 Traditional vs. Agile Project Management](#15-traditional-vs-agile-project-management)
-      - [1.5.1 Agile Project Management](#151-agile-project-management)
-    + [1.6 How organization structure affects project](#16-how-organization-structure-affects-project)
-    + [1.7 Organization Culture](#17-organization-culture)
-      - [1.7.1 How organization culture affects project](#171-how-organization-culture-affects-project)
-      - [1.7.2 Navigating Culture](#172-navigating-culture)
-    + [1.8 Project Management Software](#18-project-management-software)
-  * [2. First Thing First](#2-first-thing-first)
+- [1. Get to Know Project Management](#1-get-to-know-project-management)
+  * [1.1 What is a project?](#11-what-is-a-project)
+  * [1.2 What is project management?](#12-what-is-project-management)
+  * [1.3 What it takes to be a project manager?](#13-what-it-takes-to-be-a-project-manager)
+  * [1.4 Project Management Life Cycle](#14-project-management-life-cycle)
+  * [1.5 Traditional vs. Agile Project Management](#15-traditional-vs-agile-project-management)
+    + [1.5.1 Agile Project Management](#151-agile-project-management)
+  * [1.6 How organization structure affects project](#16-how-organization-structure-affects-project)
+  * [1.7 Organization Culture](#17-organization-culture)
+    + [1.7.1 How organization culture affects project](#171-how-organization-culture-affects-project)
+    + [1.7.2 Navigating Culture](#172-navigating-culture)
+  * [1.8 Project Management Software](#18-project-management-software)
+- [2. First Thing First](#2-first-thing-first)
   * [2.1 Initiate a Project](#21-initiate-a-project)
   * [2.2 Identify Project Stakeholders](#22-identify-project-stakeholders)
   * [2.2.1 Project Customer](#221-project-customer)
@@ -32,14 +32,23 @@
     + [2.4.1 Identify Project Goals (Step)](#241-identify-project-goals-step)
   * [2.5 Define Project Objectives](#25-define-project-objectives)
     + [2.5.1 Project Objectives Documenting Best Practices](#251-project-objectives-documenting-best-practices)
-  * [2.5 Define Project Objectives](#25-define-project-objectives)
-  * [3. Develop a Project Plan](#3-develop-a-project-plan)
-  * [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
-  * [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
-  * [6. While you Run the Project](#6-while-you-run-the-project)
-  * [7. Work with Teams](#7-work-with-teams)
-  * [8. Monitor & Control Progress & Performance](#8-monitor-control-progress-performance)
-  * [9. Close a Project](#9-close-a-project)
+  * [2.6 Choose a Strategy](#26-choose-a-strategy)
+    + [2.6.1 Brainstorming](#261-brainstorming)
+    + [2.6.2 Decision Matrix](#262-decision-matrix)
+  * [2.7 Gather Requirements](#27-gather-requirements)
+    + [2.7.1 Interview](#271-interview)
+    + [2.7.2 Focus Group](#272-focus-group)
+    + [2.7.3 Observation](#273-observation)
+    + [2.7.4 Questionnaires & Surveys](#274-questionnaires-surveys)
+    + [2.7.5 Analyze Existing Documents](#275-analyze-existing-documents)
+    + [2.7.6 Analyzing Requirements](#276-analyzing-requirements)
+- [3. Develop a Project Plan](#3-develop-a-project-plan)
+- [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
+- [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
+- [6. While you Run the Project](#6-while-you-run-the-project)
+- [7. Work with Teams](#7-work-with-teams)
+- [8. Monitor & Control Progress & Performance](#8-monitor-control-progress-performance)
+- [9. Close a Project](#9-close-a-project)
 
 
 
@@ -76,8 +85,8 @@ Goal: Is to improve the hospital's schedule capability & Maximize the use of fac
 ```
 
 
-## 1. Get to Know Project Management
-### 1.1 What is a project?
+# 1. Get to Know Project Management
+## 1.1 What is a project?
 ```
 - Temporary endeavor (Beginning & End) that has a
 - specific & unique GOAL (Product / Service / Outcome) & 
@@ -91,7 +100,7 @@ Goal: Is to improve the hospital's schedule capability & Maximize the use of fac
 - Budget ($$ & Resource Time)
 ```
 
-### 1.2 What is project management?
+## 1.2 What is project management?
 ```
 - More than just Organizing skills & Supervising others
 - Means Applying, KNOWLEDGE & SKILL & TOOLS & TECHNIQUES to achieve your project's OBJECTIVES
@@ -118,7 +127,7 @@ Success Criteria
 - Quantifiable & Measurable results that show the project is complete
 ```
 
-### 1.3 What it takes to be a project manager?
+## 1.3 What it takes to be a project manager?
 ```
 1. Technical skills
 - project plan
@@ -149,7 +158,7 @@ Figure how to
 - Motivate to give their best
 
 
-### 1.4 Project Management Life Cycle 
+## 1.4 Project Management Life Cycle 
 ```
 1. Initiating
 - Define Project (Whats the project supposed to accomplish?)
@@ -184,7 +193,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Help resources move on to their next Project
 ```
 
-### 1.5 Traditional vs. Agile Project Management
+## 1.5 Traditional vs. Agile Project Management
 ```
 1. Traditional Approach (Waterfall)
 - Goals clearly defined
@@ -203,7 +212,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - When: Unclear solution
 ```
 
-#### 1.5.1 Agile Project Management
+### 1.5.1 Agile Project Management
 ```
 1. Planning / Iteration 
 - Develop Detailed Plans for Each Iteration
@@ -226,7 +235,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 ```
 
 
-### 1.6 How organization structure affects project
+## 1.6 How organization structure affects project
 ```
 1. Classic Function Hierarchy
 - Each person reports to ONLY ONE supervisor
@@ -257,7 +266,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - How easy it is to make project SUCCESSFUL?
 ```
 
-### 1.7 Organization Culture
+## 1.7 Organization Culture
 ```
 1. What is organization culture?
 - Factors that guide people's BEHAVIOR & DECISION within an organization.
@@ -270,7 +279,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Languages 
 ```
 
-#### 1.7.1 How organization culture affects project
+### 1.7.1 How organization culture affects project
 ```
 1. Shaping Culture (How ?)
 - Mission statement (best thing to do)
@@ -288,7 +297,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Some rules can't be broken without severe consequences. If you determine that the rule can be broken, you can deliver earlier with minor consequences. You must have a plan for what you will do if you break the rule and don't deliver earlier.
 ```
 
-#### 1.7.2 Navigating Culture
+### 1.7.2 Navigating Culture
 ```
 1. Know the boundaries (Project goal: always to achieve objectives)
 2. Respect Change management (Multiple review & require approval from several people)
@@ -296,7 +305,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 ```
 
 
-### 1.8 Project Management Software
+## 1.8 Project Management Software
 ```
 1. Scheduling Software
 - Microsoft Project
@@ -337,7 +346,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Complexity
 ```
 
-## 2. First Thing First
+# 2. First Thing First
 ## 2.1 Initiate a Project
 ```
 1. Get committment to move forward
@@ -368,7 +377,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Ensure stakeholders are statisfied with end result
 ```
 
-## 2.2.1 Project Customer
+### 2.2.1 Project Customer
 ```
 1. Project Customer
 - A person / Group with a problem to solve
@@ -379,7 +388,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Aprrove deliverables (start to finish)
 ```
 
-## 2.2.2 Project Sponsor
+### 2.2.2 Project Sponsor
 ```
 1. Project Sponsor
 - A person who wants to see the project SUCCEED
@@ -391,20 +400,20 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Suggest Improvements to the project plan
 ```
 
-## 2.2.3 Project Functional / Line Manager
+### 2.2.3 Project Functional / Line Manager
 ```
 1. A person who runs department
 2. Achieve department Goals
 3. Manage team member
 ```
 
-## 2.2.4 Project Team member
+### 2.2.4 Project Team member
 ```
 1. Their job depends on their assignment
 2. May depend on how well they perform
 ```
 
-## 2.2.4 Project Team member
+### 2.2.4 Project Team member
 ```
 1. Invested & Affected by project outcomes
 ```
@@ -423,7 +432,7 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Both does not happen all at once
 ```
 
-## 2.3.1 Analyze Stakeholders (Steps)
+### 2.3.1 Analyze Stakeholders (Steps)
 ```
 1. 1st step: How your stakeholdrs are connected to your project? What motivates them? (Identify)
 - Starrt by including department, business unit, or company the stakeholder belongs to & their posiition in the organization.
@@ -530,18 +539,167 @@ Use 'SMART' criteria (Clear Objectives)
 
 
 
+## 2.6 Choose a Strategy
+
+```
+1. Overall 
+- How you can evaluate alternative strategies &
+- Select the right solution
+
+2. Braintstorming
+
+3. Solution: Decision matrix
+```
 
 
-## 3. Develop a Project Plan
 
-## 4. Building a Project Schedule
+### 2.6.1 Brainstorming
 
-## 5. An Overview of Agile Project Management
+```
+1. Identify possible strategies
+- Work as a group
+- Read problem statement, goal & objectives &
+- Begin Generating Possible Strategies
 
-## 6. While you Run the Project
+2. Allow Free Flow of Ideas
 
-## 7. Work with Teams
+3. Avoid Evaluation
+- Get as many ideas written down as possible before begin evaluation.
+```
 
-## 8. Monitor & Control Progress & Performance
 
-## 9. Close a Project
+
+### 2.6.2 Decision Matrix
+
+```
+1. Help to compare the options
+2. 1st should evaluate how well each stregy satisfies the project objectives
+3. Method to quickly shorten the list of contender (competitor): To check whether a strategy satisfies all the must-have objectives.
+4. Next, rate the performance of objective
+5. Increase weighting: When some objectibes are more important > than others.
+6. Winner: Strategy with the highest overall rating
+7. Top Strategy 
+- Is the strategy feasible? (solution: feasibile study)
+- Are the risks acceptable? (solution: inital risk analysis)
+- Does strategy fit the culture of organization?
+
+* Evaluate alternate solutions HELPS TO PICK THE BEST SOLUTION for your project.
+```
+
+
+
+## 2.7 Gather Requirements
+
+```
+1. Overall 
+- Project Goal (Done)
+- Project Objectives (Done)
+- Project Strategy (Done)
+- Define what must project DELIVER, known as REQUIREMENT
+
+2. Why essentials?
+- Stakeholders would not be satisfied (If True REQUIREMENTS Fails to identified)
+- Project might thake longer time & higher cost (If include REQUIREMENTS that aren't neccessary)
+
+3. EX Project Objective: Decrease resecheduling procedures by 75%
+
+4. EX Project Requirement 
+- Silmultaneously sechdule staff, equirement, and facilities for a procedure
+
+5. Requirement Challenges
+- Incorrect requirements (Stakeholders might describe requirement incorrectly
+- Provide inconsistent / contradictory requirements
+- Missing Requirements (Leave out requirements they need / include nice to have)
+- Unnecessary requirements (Try to squeeze their requirements into your project)
+- Customer don't commit time (Stakeholders often refuse committing time to define requirements)
+
+6. Requirement Analysis Techniques
+- Interview
+- Focus Group
+- Observation 
+- Questionnaires & Surveys
+- Analyze Existing Documents
+
+7. Start Analyzing Requirements
+```
+
+
+
+### 2.7.1 Interview
+
+```
+1. Main Point: Interview the right people & Come up with a list of questions.
+```
+
+
+
+### 2.7.2 Focus Group
+
+```
+1. Main Point: Involve several groups (with representative from each group) to discuss the requirements for the project.
+2. Might help to obtain buy-in from the departments that attend.
+```
+
+
+
+### 2.7.3 Observation
+
+```
+1. Main Point: Observe how people work.
+2. Watch what people do in their day-to-day activities.
+3. How to validate the requirements: write them up, and review them with the workers
+```
+
+
+
+### 2.7.4 Questionnaires & Surveys
+
+```
+1. Main Point: To get requirements from stakeholders.
+2. Build these docuements carefully, so these questions don't influence the answers people provide.
+```
+
+
+
+### 2.7.5 Analyze Existing Documents
+
+```
+1. Main Point: Identify requirements by analyzing documents / reverse-engineering products (If documentation / results already exist)
+```
+
+
+
+### 2.7.6 Analyzing Requirements
+
+```
+1. Analyze intial requirements (Ensure it make sense)
+- Inconsistent / duplicate rqeuirements
+
+2. Clarify with stakeholders (once done analysis)
+- It may take several rounds.
+
+3. Documenting requirements (Once it make sense)
+- Clear
+- Concise
+- Organized
+
+4. Developing Requirements
+```
+
+
+
+
+
+# 3. Develop a Project Plan
+
+# 4. Building a Project Schedule
+
+# 5. An Overview of Agile Project Management
+
+# 6. While you Run the Project
+
+# 7. Work with Teams
+
+# 8. Monitor & Control Progress & Performance
+
+# 9. Close a Project

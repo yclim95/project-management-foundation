@@ -151,7 +151,6 @@ Figure how to
 - Achieve project objective
 - Meet the schedule & Budget
 - While solving problem that arise
-```
 
 4. Interpersonal skills
 - May work with people from different department or even company
@@ -163,8 +162,16 @@ Figure how to
 - Hold them Accountable
 - Motivate to give their best
 
+6. Example (Project Manager)
+- The sponsor of Project T5 assigned you as the project manager, and the project has already been approved. What is the first thing you need to do as the project manager?\
+- Solution (Review what has been done and complete any tasks not addressed.)
+- Why? (Since the project was approved before the project manager was chosen, the project manager needs to take these steps next.)
+```
+
+
 
 ## 1.4 Project Management Life Cycle 
+
 ```
 1. Initiating
 - Define Project (Whats the project supposed to accomplish?)
@@ -399,6 +406,8 @@ Figure out how you're going to perform the project. It answers the following Q:
 1. Project Sponsor
 - A person who wants to see the project SUCCEED
 - Has sufficient AUTHORITY to make that happen
+- Example: Several stakeholders for a project disagree on the priorities of many project objectives. Who would you ask first for help resolving this issue? 
+- Why? (The project sponsor wants the project to succeed and has enough authority to help you resolve issues, particularly with other stakeholders.)
 
 2. Project Sponsor brings 3 Crucial things to project
 - Prioritize objectives
@@ -411,6 +420,10 @@ Figure out how you're going to perform the project. It answers the following Q:
 1. A person who runs department
 2. Achieve department Goals
 3. Manage team member
+
+4. Example (Project Functional / Line manager)
+- You are managing a project that is implementing a new financial system. You need to include some of the finance department's resources on the team. Which stakeholder should you approach?
+- Why? (This stakeholder is most accountable for the resources that are needed for a project.)
 ```
 
 ### 2.2.4 Project Team member
@@ -436,6 +449,8 @@ Figure out how you're going to perform the project. It answers the following Q:
 - Store information there as you identify stakeholders
 - Learn about their part in your project
 - Both does not happen all at once
+- Example: Krisha is gathering information on her stakeholders, such as department names, factors that motivate them, who they listen to, and their contributions on the project. What is this document called?
+- Why? (This document includes much of the information Krisha needs to effectively communicate with each stakeholder.)
 ```
 
 ### 2.3.1 Analyze Stakeholders (Steps)
@@ -473,6 +488,10 @@ Funding is avaible to address scheduling issues.
 - Ex (Project Goals)
 The project will deliver scheduling improvements so hospital resources can be scheduled efficiently. 
 The project will take advantage of funding available for productive and technology enhancements.
+
+2. Example (Problem Statement)
+- Your client has asked for a project that will fix productivity concerns with the customer service department. After asking "why" several times, you are able to determine the cause and create a _____. 
+- Why? (This is what clearly defines the problem or opportunity that the project will address.)
 ```
 
 
@@ -484,24 +503,32 @@ The project will take advantage of funding available for productive and technolo
 - After defining project GOALS, can start by identifying more DETAILED objectives
 - Help the (Project scope, approach choose, success critieria need to meet)
 
-2. Business Objectives
+2. Project Objective
+- Project objectives help identify the items you include in project scope.
+
+3. Business Objectives
 - Support your organization's goals
 - Example: Increase market share to 25% / Provide word class health care.
 
-3. Financial Objectives
+4. Financial Objectives
 - All about money
 - Example: Increase revenue by 15% / cut costs by 10%
 
-4. Quality Objectives
+5. Quality Objectives
 - Specify How good reslts needs to be
 - Example: Decrease staph infections by 80% / Decrease readmittance by 75%
 
-5. Technical Objectives
+6. Technical Objectives
 - Technical specification for equipments
 - Example: Introduce mobile equipment for hospital, ambulance, & remote emergency site.
 
-6. Performance
+7. Performance
 - Example: Finish project before grant expires. (by specific date)
+
+8. Project Objectives (Example)
+- Project objectives help you flesh out a project by _____.
+- Answer: defining project scope
+- Why? (Project objectives help identify the items you include in project scope.)
 ```
 
 
@@ -522,6 +549,7 @@ Use 'SMART' criteria (Clear Objectives)
 - With specific criteria that measure your progress toward the accomplishment of the goal
 - Example: The hospital can measure the decrease in readmittance / revenue increase.
 - With Qualitative measures, you might use survey responses, such as (minimum patient satistfaction rating of 4.5 starts)
+- Example: Ramesh is creating objectives for his project. Which SMART step will help him identify actual progress?   
 
 3. A chievable Objectives
 - Tell what ca be done with resources available
@@ -582,7 +610,7 @@ Use 'SMART' criteria (Clear Objectives)
 2. 1st should evaluate how well each stregy satisfies the project objectives
 3. Method to quickly shorten the list of contender (competitor): To check whether a strategy satisfies all the must-have objectives.
 4. Next, rate the performance of objective
-5. Increase weighting: When some objectibes are more important > than others.
+5. Increase weighting: When some objectives are more important > than others.
 6. Winner: Strategy with the highest overall rating
 7. Top Strategy 
 - Is the strategy feasible? (solution: feasibile study)
@@ -590,6 +618,10 @@ Use 'SMART' criteria (Clear Objectives)
 - Does strategy fit the culture of organization?
 
 * Evaluate alternate solutions HELPS TO PICK THE BEST SOLUTION for your project.
+
+8. Example (Decision Matrix)
+- Your team has identified possible strategies for a project. The team is now evaluating them using a decision matrix. What is the purpose of weighting the objectives?
+- Why? (Weighting objectives allows you to determine which strategy addresses the most important objectives.)
 ```
 
 
@@ -644,6 +676,9 @@ Use 'SMART' criteria (Clear Objectives)
 ```
 1. Main Point: Involve several groups (with representative from each group) to discuss the requirements for the project.
 2. Might help to obtain buy-in from the departments that attend.
+3. Example (Focus Group)
+- Which technique would you most likely use to gather valid requirements and get buy-in from various departments?
+- Why? (This type of requirements gathering is usually face-to-face and is best for obtaining buy-in or agreements from several groups.)
 ```
 
 
@@ -729,6 +764,10 @@ Use 'SMART' criteria (Clear Objectives)
 - EXAMPLE: Sign a contract with the scheduling system vendor.
 - 3rd, Try to define deliverables that can be accomplished in the timeframe between status report
 - EXAMPLE: Evaluate progress based on deliverables completed since the last report.
+
+5. Example (Project Deliverable)
+- Banton is defining his project deliverables. Which statement describes what a project deliverable is?
+- Why? (A project deliverable is defined as a result that a project delivers, and helps define the project scope.)
 ```
 
 
@@ -744,6 +783,10 @@ Use 'SMART' criteria (Clear Objectives)
 - Signed vendor contracts
 - Certificate of Occupancy
 - 4 / 5 rating on surveys (increased in customer satistfaction)
+
+3. Example (Success Criteria)
+- Rudolph, the project manager, is trying to obtain customer approval of project deliverables. It is taking longer than he anticipated because the customer wants to discuss the results. What is the most likely reason for these delays?
+- Why? (Success criteria that are unclear or not quantifiable can make it difficult to determine whether deliverables are acceptable.)
 ```
 
 
@@ -761,10 +804,20 @@ Use 'SMART' criteria (Clear Objectives)
 - Ask about expectations
 - Ask questions to get answer
 
+2. Example (Assumption)
+- After the plan is approved and project work begins, Tara's boss is not happy about a project delay for an upgrade. The vendor thought Tara's team would do the upgrade, and Tara thought the vendor would do it. What was missed in this situation?
+- Answer: An assumption was not identified.
+- Why? (Assumptions are created during the project initiation phase when you do not know everything that will happen.)
+
 2. Risk
 - A situation / event that might occur.
 - Could affect project POSTIVELY / NEGATIVELY
-- Manaagement might not invest in it.
+- Management might not invest in it.
+
+3. Example (Risk)
+- As part of the project definition, Bisa identifies risks for the project. What is the purpose of doing this during project initiation?
+- Solution: so management can decide whether the risks are serious enough to warrant denying the project
+- Why? (If the project has numerous, serious risks, management might decide to choose a different project that offers benefits without so much uncertainty.)
 ```
 
 
@@ -773,10 +826,11 @@ Use 'SMART' criteria (Clear Objectives)
 
 ```
 1. Describes the boundaries of the project (included & not included)
+
 2. Project Scope in Writing
 - Helps avoid scope creep (Additional unexpected deliverables)
 - Reminds stakeholders what was agreed upon
-- Helps track for change management (Add them if Stakeholders really want it)
+- Helps track for change management (Add them if Stakeholders really want it - Change Controll Process)
 
 3. Everything you done during PROJECT INITIATION feeds into tthis document
 - Goal and Objectives 
@@ -797,6 +851,16 @@ Use 'SMART' criteria (Clear Objectives)
 5. Out-of-Scope (Example)
 - Update work shif scheduling system
 - Shheduling resident rooms
+
+6. Example (Project Scope)
+- Why is it important to document the project scope?
+- AAnswer: to remind stakeholders what they agreed to and to prevent scope creep
+- Why? (With the project scope in writing, you will be able to identify whether requests are within scope or need to be handled by change management.)
+
+7. Example (Project Scope)
+- Sakait has done some extra work to appease a client. Now the client is asking her to do one more task, which is significant and not part of project scope. What should Sakait do?
+- Answer: Sakait should tell the client the task is not within scope and add the task using the change control process.
+- Why? (This is the best approach for Sakait and would help to prevent any further scope creep.)
 ```
 
 
@@ -805,13 +869,14 @@ Use 'SMART' criteria (Clear Objectives)
 
 ```
 1. Overview (Before Creating Project Charter : Perform Cross Check if the following is DONE)
-- Project definition (Done)
+- Project definition (the customer or sponsor can make an informed decision whether the project makes sense for the organization.)
 - Scope Statement (Done)
 - Get approval to proceed
 - Prepare project charter
 
 2. Project Charter
 - Authorized & Publicizes the project 
+- This document describes the scope, objectives, stakeholders, and the project manager's authority and responsibilities for a project.
 
 3. Content for Project Charter
 - Project name
@@ -825,6 +890,16 @@ Use 'SMART' criteria (Clear Objectives)
 - PM'responsibilities
 - PM's authority (requesting resources & signing contracts)
 - Formal declaration of sponsor's support
+
+4. Example (Project Definition)
+- You are the project manager for a healthcare system implementation project. The sponsor has asked you to create a project definition. What will the sponsor use this document for? 
+- Answer: to decide whether to approve the project
+- Why? (By defining the project, the customer or sponsor can make an informed decision whether the project makes sense for the organization.)
+
+5. Example (Project Charter)
+- Your boss has asked you to be the project manager of an approved software implementation project. Which project document identifies your authority and responsibilities?
+- Answer: a project charter
+- Why? (This document describes the scope, objectives, stakeholders, and the project manager's authority and responsibilities for a project.)
 ```
 
 

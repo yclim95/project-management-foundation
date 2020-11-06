@@ -49,11 +49,14 @@
   * [2.10 Prepare a Project Scope Statement](#210-prepare-a-project-scope-statement)
   * [2.11 Prepare a Project Charter](#211-prepare-a-project-charter)
 - [3. Develop a Project Plan](#3-develop-a-project-plan)
+  * [3.1 Project Planning Overview](#31-project-planning-overview)
 - [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
 - [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
 - [6. While you Run the Project](#6-while-you-run-the-project)
+  * [6.1 How to run a project?](#61-how-to-run-a-project)
 - [7. Work with Teams](#7-work-with-teams)
 - [8. Monitor & Control Progress & Performance](#8-monitor-control-progress-performance)
+  * [8.1 How to gather data?](#81-how-to-gather-data)
 - [9. Close a Project](#9-close-a-project)
 
 
@@ -906,9 +909,40 @@ Use 'SMART' criteria (Clear Objectives)
 
 
 
-
-
 # 3. Develop a Project Plan
+
+## 3.1 Project Planning Overview
+
+```
+1. Begin: Identifying the work that must be done.
+2. To make the project easy to manage: Break the work down into bite size pieces.
+3. Once has a list of tasks, can start by estimating
+- Who is going to the the work?
+- How long each task will take (Estimate)?
+- How much they'll cost (Estimated cost)?
+
+3. Figuring when things happen requires: some special techniques.
+4. To build a schedule, take into account factors like
+- How tasks depend on one another?
+- How much resources are available to work on tasks?
+- When those resources are available?
+
+5. Other than schedule, planning includes:
+- How you'll run the project?
+- How will the team communicate?
+- With what tools & How often?
+- Managing change & Risks Plan
+- What you'll do to ensure quality?
+
+6. Project Plan
+- Used over the duration of project.
+- Direct people working on your project.
+- Tracks project's progression.
+- Aids in project corrections
+- Communicate with stakeholders
+```
+
+
 
 # 4. Building a Project Schedule
 
@@ -916,8 +950,104 @@ Use 'SMART' criteria (Clear Objectives)
 
 # 6. While you Run the Project
 
+## 6.1 How to run a project?
+
+```
+1. Overview 
+- Planning is done
+- Project is underway
+
+2. Starts with lining up the people & other resources you need to perform the work.
+3. Once the team members are on board they need to know
+- their assignments
+- Who they're working with
+- How the project's going to go.
+
+1st: Launch the project
+2nd: Acquire a project TEAM
+3rd: DEVEVLOP & MANAGE team 
+4th: Explain project GUIDELINESS
+
+4. Kickoff Meeting
+- Describe the Mission (Project-sponsoring customer can describe the mission & get everybody excited about the project)
+- Review the project plan (Review the project plan & explain how things will work BY communicating / Handling change requests)
+
+5. Set up a place to store project information (Project notebook)
+- Project Plan
+- Specifications
+- Documents
+- Reports
+
+6. Project Notebook 
+- Can in the form of electronic
+- Be sure o set your project notebook up where team members can get to it.
+
+7. Project Execution 
+- Performing all the work you identifed in the work breakdown structure.
+
+8. Monitoring & Controlling Project
+- Kicks in at the same time execuring.
+- Collect data where project stands (Monitoring) 
+- Correct course to keep project on track (Controlling)
+```
+
+
+
+
+
 # 7. Work with Teams
 
 # 8. Monitor & Control Progress & Performance
 
+## 8.1 How to gather data?
+
+```
+1.While work is underways, you'll need to track
+- How Things are going?
+- What's been done?
+- What's left to do?
+- How long it took?
+- What it cost?
+
+2. Top of the list (usually)
+- Schedule (Actual dates & Hours worked)
+- Budget (Money spent)
+
+3. 1st thing need to track progress is (Data collection)
+- When tasks actually start?
+- A delay might happen (Task did not start when supposed to)
+- Get actual work hours / actual duration (While tasks are underway)?
+- How much work / duration is still left (remaining duration)?
+- Other actual costs (travel, fees & training)
+
+
+4. Benefits (Tracking by hours)
+- Progress
+- Labor cost
+
+5. Benefits (Tracking remaining duration)
+- How much longer tasks will take? 
+- If original estimate was on target?
+
+6. Techniques
+- Set up Automated way to retrieve data you need through (email / online forum / Enterprise Reporting Tool)
+```
+
+
+
+
+
 # 9. Close a Project
+
+```
+#Overview 
+1. Project deliverables Completed
+2. Few activities left to perform
+- Get the customer to agree your project completed successfully (Obtain acceptance in writing)
+- Can improve the performance of future projects by identifying what worked well? & what didn't? & how things can be done better? (Document lesson learned)
+- Produce file documentation & a close out report that sums up the project's performance (Produce a closeout report)
+- Close contracts
+- Archive your project information
+- Transition your team to their next assignment (transition team)
+```
+

@@ -46,6 +46,8 @@
     + [2.8.1 Project Deliverables](#281-project-deliverables)
     + [2.8.2 Measuring Success](#282-measuring-success)
   * [2.9 Identify Project Assumptions & Risks](#29-identify-project-assumptions-risks)
+  * [2.10 Prepare a Project Scope Statement](#210-prepare-a-project-scope-statement)
+  * [2.11 Prepare a Project Charter](#211-prepare-a-project-charter)
 - [3. Develop a Project Plan](#3-develop-a-project-plan)
 - [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
 - [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
@@ -764,6 +766,70 @@ Use 'SMART' criteria (Clear Objectives)
 - Could affect project POSTIVELY / NEGATIVELY
 - Manaagement might not invest in it.
 ```
+
+
+
+## 2.10 Prepare a Project Scope Statement
+
+```
+1. Describes the boundaries of the project (included & not included)
+2. Project Scope in Writing
+- Helps avoid scope creep (Additional unexpected deliverables)
+- Reminds stakeholders what was agreed upon
+- Helps track for change management (Add them if Stakeholders really want it)
+
+3. Everything you done during PROJECT INITIATION feeds into tthis document
+- Goal and Objectives 
+- Within Scope 
+- Out of Scope
+- Deliverables
+- Success Criteria
+- Assumptions
+- Risks 
+- Constraints
+
+4. In-Scope (Example)
+- Redesign processes for scheduling staff, equipment & facilities
+- Delivers new scheduling system & processes
+- Document Processes & System Use
+- Train staff on Processes & System
+
+5. Out-of-Scope (Example)
+- Update work shif scheduling system
+- Shheduling resident rooms
+```
+
+
+
+## 2.11 Prepare a Project Charter
+
+```
+1. Overview (Before Creating Project Charter : Perform Cross Check if the following is DONE)
+- Project definition (Done)
+- Scope Statement (Done)
+- Get approval to proceed
+- Prepare project charter
+
+2. Project Charter
+- Authorized & Publicizes the project 
+
+3. Content for Project Charter
+- Project name
+- Project Purpose
+- Goal & Objectives (Short summary)
+- Project descripion (High-Level) - high level success criteria, requirements, scope, risks & assumptions
+- High-level milestone schedule
+- Rough-cost estimate
+- Stakeholders
+- PM's name
+- PM'responsibilities
+- PM's authority (requesting resources & signing contracts)
+- Formal declaration of sponsor's support
+```
+
+
+
+
 
 
 

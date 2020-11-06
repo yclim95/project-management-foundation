@@ -42,6 +42,10 @@
     + [2.7.4 Questionnaires & Surveys](#274-questionnaires-surveys)
     + [2.7.5 Analyze Existing Documents](#275-analyze-existing-documents)
     + [2.7.6 Analyzing Requirements](#276-analyzing-requirements)
+  * [2.8 Identify Project Deliverables & Success Criteria](#28-identify-project-deliverables-success-criteria)
+    + [2.8.1 Project Deliverables](#281-project-deliverables)
+    + [2.8.2 Measuring Success](#282-measuring-success)
+  * [2.9 Identify Project Assumptions & Risks](#29-identify-project-assumptions-risks)
 - [3. Develop a Project Plan](#3-develop-a-project-plan)
 - [4. Buidling a Project Schedule](#4-buidling-a-project-schedule)
 - [5. An Overview of Agile Project Management](#5-an-overview-of-agile-project-management)
@@ -687,6 +691,79 @@ Use 'SMART' criteria (Clear Objectives)
 ```
 
 
+
+## 2.8 Identify Project Deliverables & Success Criteria
+
+```
+1. Overall 
+- Project Delivables (results) of what a project delivers
+- Delievrables are measured by success criteria
+
+2. Process 
+2.1 Identify END DELIVERABLES
+2.2 Identify INTERMEDIATE DELIVERABLES
+2.3 Define clear & quantifiable SUCCESS CRITERIA
+```
+
+
+
+### 2.8.1 Project Deliverables
+
+```
+1. Can be Tangible
+- Building
+- A new Product
+- A new Service
+- More abstraact (Improve results)
+
+2. Define project scope (What is  & What is not included in project)
+
+3. Helps you measure progress (while your project is underway)
+
+4. Document Project Deliverbles
+- 1st Start by Listing the END DELIVERABLES (end result of what projects delivers @ at the end of the project)
+- EXAMPLLE: new scheduling system & processes launched.
+- 2nd, document intermediate deliverables
+- EXAMPLE: Sign a contract with the scheduling system vendor.
+- 3rd, Try to define deliverables that can be accomplished in the timeframe between status report
+- EXAMPLE: Evaluate progress based on deliverables completed since the last report.
+```
+
+
+
+### 2.8.2 Measuring Success
+
+```
+1. Overall 
+- How can you tell what you received is what the STAKEHOLDER wants?
+- Need quantiable criteria you can measure them with.
+
+2. Example of Success Criteria
+- Signed vendor contracts
+- Certificate of Occupancy
+- 4 / 5 rating on surveys (increased in customer satistfaction)
+```
+
+
+
+## 2.9 Identify Project Assumptions & Risks
+
+```
+1. Assumptions
+- Would not have ALL information that is needed (Project Initialization)
+- Just make assumptions (Project Initalization)
+- Revist & Modify as neccessary (LATER stage)
+- Example: For Schedule Project, I would not know how much system customization is needed, until the vendor is chosen which can affect how many (in-house resources) needed & (how long) the project takes.
+- Example (Assumption): Would not rrequire much customization. Will need 3 in-house IT resources, and will need a month to finish their part of project.
+- Should bring up (open to everyone): Make sure everyone is on the same page
+- Ask about expectations
+- Ask questions to get answer
+
+2. Risk
+- A situation / event that might occur.
+- Could affect project POSTIVELY / NEGATIVELY
+- Manaagement might not invest in it.
+```
 
 
 

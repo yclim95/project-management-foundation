@@ -14,8 +14,16 @@
 ```
 
 ## 1. Communication Plan
+```
+•	Which stakeholders? [School superintendent]
+•	How will they receive it? [Text message]
+•	What will it say? [Short project updates]
+•	When they going to get it? [Friday after 4:00pm]
+```
 
-## 2. How we communication
+## 2. How we communicate
+```
+```
 
 ## 3. Communicate with Stakeholder
 
